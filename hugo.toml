@@ -9,13 +9,14 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-name = "Bogdan"
-headline = "Hi there! Check these out:"
+name = "Bogdan's Home Page"
+headline = "Hello, web-surfer!"
 image = "img/author.jpg"  # path relative to static directory
 
   links = [
      { email = "mailto:baciubogdan@gmail.com" },
-     { link = "https://solar365.info/" },
+     { link = { href = "https://solar365.info/", text = "Solar365.info" } },
+    # { link = "https://solar365.info/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { bandcamp = "https://username.bandcamp.com" },
@@ -24,7 +25,7 @@ image = "img/author.jpg"  # path relative to static directory
     # { dev = "https://dev.to/username" },
     # { discord = "https://discord.gg/invitecode" },
     # { dribbble = "https://dribbble.com/username" },
-    { facebook = "https://facebook.com/solar365Ireland" },
+     { facebook = "https://facebook.com/solar365Ireland" },
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
     # { github = "https://github.com/username" },
