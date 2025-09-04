@@ -5,7 +5,7 @@ site made with Lynx theme.
 
 https://jpanther.github.io/lynx/
 
-Thank you all great work.
+Thank you for all great work.
 
 
 
