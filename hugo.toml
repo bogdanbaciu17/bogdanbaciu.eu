@@ -16,7 +16,7 @@ image = "img/author.jpg"  # path relative to static directory
   links = [
      { email = "mailto:info@solar365.info" },
      { link = { href = "https://solar365.info/", text = "Solar365.info" } },
-     { link = { href = "https://bogdan-blog.netify.app/", text = "My blog" } },
+     { link = { href = "https://bogdan-blog.netlify.app/", text = "My blog" } },
     # { link = "https://solar365.info/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
