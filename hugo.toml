@@ -2,19 +2,19 @@ baseURL = "https://bogdanbaciu.eu"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Bogdan Baciu"
-copyright = "Copy, _right?_ :thinking_face:"
+title = "Bogdan's Linktree"
+#copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-name = "Bogdan's Webpage"
+name = "Bogdan's Linktree"
 headline = "Hello, web-surfer!"
 image = "img/author.jpg"  # path relative to static directory
 
   links = [
-     { email = "mailto:info@solar365.info" },
+    # { email = "mailto:info@solar365.info" },
      { link = { href = "https://solar365.info/", text = "Solar365.info" } },
      { link = { href = "https://bogdan-blog.netlify.app/", text = "My blog" } },
     # { link = "https://solar365.info/" },
