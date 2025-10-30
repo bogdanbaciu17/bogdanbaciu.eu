@@ -14,8 +14,8 @@ headline = "Hello, web-surfer!"
 image = "img/author.jpg"  # path relative to static directory
 
   links = [
-    # { email = "mailto:info@solar365.info" },
-     { link = { href = "https://solar365.info/", text = "Solar365.info" } },
+     { email = "mailto:bogdanbaciu@duck.com" },
+    # { link = { href = "https://solar365.info/", text = "Solar365.info" } },
      { link = { href = "https://bogdan-blog.netlify.app/", text = "My blog" } },
     # { link = "https://solar365.info/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -26,7 +26,7 @@ image = "img/author.jpg"  # path relative to static directory
     # { dev = "https://dev.to/username" },
     # { discord = "https://discord.gg/invitecode" },
     # { dribbble = "https://dribbble.com/username" },
-     { facebook = "https://facebook.com/solar365Ireland" },
+    # { facebook = "https://facebook.com/solar365Ireland" },
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
     # { github = "https://github.com/username" },
@@ -52,7 +52,7 @@ image = "img/author.jpg"  # path relative to static directory
     # { steam = "https://steamcommunity.com/profiles/userid" },
     { telegram = "https://t.me/bogdanbaciu" },
     # { threads = "https://threads.com/username" },
-    { tiktok = "https://tiktok.com/@solar365info" },
+    # { tiktok = "https://tiktok.com/@solar365info" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
